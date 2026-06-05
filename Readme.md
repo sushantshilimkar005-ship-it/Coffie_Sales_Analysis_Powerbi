@@ -1,61 +1,133 @@
-### ☕ COFFEE SALES ANALYTICS DASHBOARD
+### ☕ Coffee Sales Dashboard – Power BI
 
-————————————————————————————————————————————————————————————
-### 1. Project Overview
+### 📌 Project Overview
 
-This repository contains a comprehensive interactive Coffee Sales Dashboard developed using Power BI Desktop. The business objective of this project is to analyze transactional retail sales data to extract actionable operational insights regarding revenue, order volumes, profitability margins, customer behaviors, and geographic performance. By tracking historical performance across multiple years (2021–2023), this business intelligence tool empowers retail managers and stakeholders to make data-driven inventory, marketing, and pricing decisions.
 
-### 2. Key Performance Indicators (KPIs)
+The Coffee Sales Dashboard is an interactive Power BI report designed to analyze coffee shop sales performance. It provides insights into revenue, profit, transactions, product categories, cities, and monthly sales trends, helping stakeholders make data-driven business decisions.
 
-The dashboard high-level metric cards monitor overall performance at a glance:
+### 📊 Dashboard Preview
 
-•	Total Transactions: 9,971 individual retail transactions recorded across the dataset.
+![Screenshot](Dashbord_Screenshot.png)
 
-•	Total Revenue: $46.37K in aggregate gross sales revenue generated across all periods.
+### 🎯 Key Objectives
+Monitor overall sales performance.
 
-•	Total Quantity Sold: 14K total units of coffee, beverages, items, and desserts purchased.
+Track revenue, profit, and quantity sold.
 
-•	Total Net Profit: $16.23K accumulated net profits, reflecting highly robust operational retail margins.
+Analyze sales trends across months and years.
 
-### 3. Dashboard Structural Breakdown & Deep Dive
+Identify top-performing product categories.
 
-Transaction ID by Weekday (Trend Line Chart)
-Traces the flow of transaction counts through the days of the week. Friday acts as the peak operational period with approximately 1.5K transactions, while all remaining days (Saturday through Monday) demonstrate remarkably consistent, stable baseline demand hovering at roughly 1.4K transactions per day.
+Compare city-wise sales performance.
 
-Revenue & Sum of Profit Margin by Month (Combined Bar Chart)
-Illustrates seasonal distribution of gross sales vs. net profit margins. January leads as the highest revenue-generating month, followed by a minor dip and subsequent secondary surge in May, before entering a slight, progressive tail-off towards the late winter months (November, April, September, and February).
+Understand transaction patterns by weekdays.
 
-Revenue By Year (Donut Chart Breakout)
-Breaks down total financial contributions over time. Market share is evenly spread across the years, showcasing organic stability: 2022 leads with 33.96% ($15.75K), followed closely by 2023 at 33.15% ($15.37K), and 2021 at 32.89% ($15.25K).
+### 📈 Key Performance Indicators (KPIs)
 
-Total Revenue by Product Category (Horizontal Bar Chart)
-Ranks core commercial revenue channels. Desserts represent the highest-grossing category ($7.2K), closely contested by Sandwiches ($6.8K), Tea Beverages ($6.7K), Coffee Beverages ($6.5K), Specialty Drinks ($6.5K), Snacks ($6.4K), and Cold Drinks ($6.3K).
+KPI	Value
 
-Transaction ID by Month (Volume Histogram)
-Evaluates absolute traffic patterns. May (909 orders) and July (865 orders) represent high-volume consumer traffic hubs, contrasting with February (744 orders) which acts as the seasonal cyclical low points.
-Revenue By City (Geographic Market Share Donut Chart)
-Provides multi-regional insights. Chicago represents the largest metropolitan footprint contributing 24.16% ($11.21K) of total revenue, closely shadowed by Los Angeles at 23.26% ($10.79K), New York at 22.48% ($10.43K), and remaining market value distributed among Austin and Seattle.
+Total Transactions	9,971
 
-### 4. Interactivity & Slicers
+Total Revenue	46.37K
 
-The top navigation panel incorporates dedicated global slicers allowing dynamically filtered reporting perspectives:
+Total Quantity Sold	14K
 
-•	City Slicer: Filters the entire report structure down to specific metropolitan footprints (Chicago, Los Angeles, New York, Austin, Seattle).
-•	Month Slicer: Enables seasonal, monthly cross-sectional isolation to observe individual monthly trends.
-•	Year Slicer: Isolates transactional data for years 2021, 2022, or 2023 to evaluate operational annual growth rates.
+Total Profit	16.23K
 
-### 6. Steps to Deploy & Run Project Locally
+### 📌 Dashboard Features
 
-1.  Clone this GitHub Repository to your local machine using git clone <your-repository-url>.
+🔹 Sales Overview
 
-2.  Ensure you have the latest version of Power BI Desktop installed on your operating system.
+Total Revenue
 
-3.  Locate the .pbix file within the project directory root folder and double-click to open it.
+Total Profit
 
-4.  If raw data source prompts appear, refresh or remap your local directory pathing pointing to the attached dataset file.
+Total Quantity Sold
 
-5.  Utilize the interactive charts, click elements to cross-filter, and change slicer parameters to see real-time updates.
+Total Transactions
 
-### Dashboard Screenshot
+🔹 Revenue Analysis
 
-![Dashboard Screenshot](Dashbord_Screenshot.png)       
+Revenue by Month
+
+Revenue by Year
+
+Profit Margin Trends
+
+🔹 Product Performance
+
+Revenue by Product Category
+
+Best-Selling Categories
+
+Category Comparison
+
+🔹 Location Analysis
+
+Revenue by City
+
+City-wise Sales Distribution
+
+🔹 Transaction Analysis
+
+Transactions by 
+
+Monthly Transaction Trends
+
+🔹 Interactive Filters
+
+City Filter
+
+Month Filter
+
+Year Filter
+
+🛠️ Tools & Technologies Used
+
+📊 Power BI Desktop
+
+📁 Microsoft Excel / CSV Dataset
+
+📈 Data Modeling
+
+📉 DAX Measures
+
+🎨 Dashboard Design & Visualization
+
+
+📊 Insights Generated
+
+✅ Revenue exceeded 46K
+
+✅ Total Profit reached 16K
+
+✅ Nearly 10K Transactions recorded
+
+✅ Product categories contributed differently to revenue generation
+
+✅ Sales performance varied across cities
+
+✅ Monthly revenue trends help identify seasonal demand patterns
+
+
+### 💡 Business Benefits
+
+Improves sales monitoring. 
+
+Identifies profitable products and locations.
+
+Supports strategic decision-making.
+
+Helps track business growth trends.
+
+Provides actionable insights through visualization.
+
+### 👨‍💻 Author
+
+### Sushant Shilimkar
+
+📧 Email: your-email@example.com
+
+🔗 LinkedIn: Add Your LinkedIn Profile Link
+
+💻 GitHub: Add Your GitHub Profile Link
