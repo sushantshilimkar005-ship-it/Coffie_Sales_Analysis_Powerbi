@@ -1,15 +1,16 @@
 ### ☕ Coffee Sales Dashboard – Power BI
 
-### 📌 Project Overview
+### 📌 Project Overview :
 
 
 The Coffee Sales Dashboard is an interactive Power BI report designed to analyze coffee shop sales performance. It provides insights into revenue, profit, transactions, product categories, cities, and monthly sales trends, helping stakeholders make data-driven business decisions.
 
-### 📊 Dashboard Preview
+### 📊 Dashboard Preview :
 
 ![Screenshot](Dashbord_Screenshot.png)
 
-### 🎯 Key Objectives
+### 🎯 Key Objectives :
+
 Monitor overall sales performance.
 
 Track revenue, profit, and quantity sold.
@@ -22,7 +23,7 @@ Compare city-wise sales performance.
 
 Understand transaction patterns by weekdays.
 
-### 📈 Key Performance Indicators (KPIs)
+### 📈 Key Performance Indicators (KPIs) :
 
 KPI	Value
 
@@ -34,7 +35,7 @@ Total Quantity Sold	14K
 
 Total Profit	16.23K
 
-### 📌 Dashboard Features
+### 📌 Dashboard Features :
 
 🔹 Sales Overview
 
@@ -82,7 +83,7 @@ Month Filter
 
 Year Filter
 
-🛠️ Tools & Technologies Used
+### 🛠️ Tools & Technologies Used :
 
 📊 Power BI Desktop
 
@@ -95,7 +96,7 @@ Year Filter
 🎨 Dashboard Design & Visualization
 
 
-📊 Insights Generated
+### 📊 Insights Generated :
 
 ✅ Revenue exceeded 46K
 
@@ -110,7 +111,7 @@ Year Filter
 ✅ Monthly revenue trends help identify seasonal demand patterns
 
 
-### 💡 Business Benefits
+### 💡 Business Benefits :
 
 Improves sales monitoring. 
 
@@ -122,12 +123,10 @@ Helps track business growth trends.
 
 Provides actionable insights through visualization.
 
-### 👨‍💻 Author
+### 👨‍💻 Author : sushant shilimkar
 
-### Sushant Shilimkar
+📧 Email:sushantshilimkar005@gmail.com
 
-📧 Email: your-email@example.com
+🔗 LinkedIn: https://www.linkedin.com/in/sushant-shilimkar-24b7a2351?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-🔗 LinkedIn: Add Your LinkedIn Profile Link
-
-💻 GitHub: Add Your GitHub Profile Link
+💻 GitHub: https://github.com/sushantshilimkar005-ship-it
